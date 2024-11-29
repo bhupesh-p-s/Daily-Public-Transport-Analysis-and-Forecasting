@@ -1,4 +1,4 @@
-#Daily Public Transport Analysis and Forecasting
+# Daily Public Transport Analysis and Forecasting
 
 This project leverages the **SARIMAX (Seasonal AutoRegressive Integrated Moving Average with eXogenous regressors)** model for forecasting demand across multiple transit services, such as Local Routes, Light Rail, Rapid Routes, and other services. The goal is to provide insights into service demand trends and optimize resource allocation using time series forecasting.
 
